@@ -1,0 +1,14 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éÚùŞ8©ØÒÊ×1
+L	java:S106"+Replace this use of System.out by a logger.(ôïŸşùÿÿÿÿ8ÆãÏÊ×1
+L	java:S106"+Replace this use of System.out by a logger.(ÿÄ€üÿÿÿÿ8ÊãÏÊ×1
+G	java:S106"+Replace this use of System.out by a logger.(²´¢Ó8ÌãÏÊ×1
+L	java:S106"+Replace this use of System.out by a logger.(²Ã Ìşÿÿÿÿ8ÍãÏÊ×1
+F	java:S106#"+Replace this use of System.out by a logger.(¹”êD8ÏãÏÊ×1
+L	java:S106("+Replace this use of System.out by a logger.(îöÉêúÿÿÿÿ8ÑãÏÊ×1
+J
+java:S1068"-Remove this unused "doorsOpen" private field.(×àèê8ÓãÏÊ×1
+Q
+java:S1068"/Remove this unused "windowsOpen" private field.(úŠ¬¥ùÿÿÿÿ8ÔãÏÊ×1
+I
+java:S1068",Remove this unused "lightsOn" private field.(»¨ÆÀ8ÔãÏÊ×1

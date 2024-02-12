@@ -1,0 +1,25 @@
+
+_
+java:S1612	"BReplace this lambda with method reference 'Comparable::compareTo'.(±ÉÅÓ8¡îÙî×1
+G	java:S106
+"+Replace this use of System.out by a logger.(¶ô Ï8¨îÙî×1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8«îÙî×1
+L	java:S106"+Replace this use of System.out by a logger.(Á–·Õıÿÿÿÿ8´îÙî×1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8µîÙî×1
+L	java:S106"+Replace this use of System.out by a logger.(÷ÿšƒşÿÿÿÿ8¾îÙî×1
+F	java:S106"+Replace this use of System.out by a logger.(¼©8ÇîÙî×1
+L	java:S106#"+Replace this use of System.out by a logger.(„ÀØàÿÿÿÿÿ8ÌîÙî×1
+o
+java:S6204("RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ÍîÙî×1
+L	java:S106)"+Replace this use of System.out by a logger.(×—ƒúùÿÿÿÿ8ÒîÙî×1
+o
+java:S6204/"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ÔîÙî×1
+G	java:S1060"+Replace this use of System.out by a logger.(ÖÑşÕ8ÚîÙî×1
+L	java:S1066"+Replace this use of System.out by a logger.(ÜÇçˆÿÿÿÿÿ8åîÙî×1
+o
+java:S6204="RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8îîÙî×1
+G	java:S106>"+Replace this use of System.out by a logger.(¥²¡8ôîÙî×1
+G	java:S106D"+Replace this use of System.out by a logger.(×ëÚò8øîÙî×1
+L	java:S106I"+Replace this use of System.out by a logger.(äÜÇªüÿÿÿÿ8€ïÙî×1

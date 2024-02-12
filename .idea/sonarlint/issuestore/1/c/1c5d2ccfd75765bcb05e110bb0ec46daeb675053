@@ -1,0 +1,21 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(Ëµõãüÿÿÿÿ8­Ïøê×1
+Q
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(Şü×Â8°Ïøê×1
+G	java:S106"+Replace this use of System.out by a logger.(®ş¥ß8²Ïøê×1
+L	java:S106"+Replace this use of System.out by a logger.(šóæ¦ÿÿÿÿÿ8µÏøê×1
+Q
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(óÇ°8¶Ïøê×1
+L	java:S106"+Replace this use of System.out by a logger.(ÅÄºšüÿÿÿÿ8¹Ïøê×1
+G	java:S106#"+Replace this use of System.out by a logger.(•û¯Ã8»Ïøê×1
+G	java:S106$"+Replace this use of System.out by a logger.(ÎÜÇÉ8½Ïøê×1
+L	java:S106'"+Replace this use of System.out by a logger.(úôÜ©øÿÿÿÿ8ÀÏøê×1
+L	java:S106("+Replace this use of System.out by a logger.(‚¢ÙÖøÿÿÿÿ8ÂÏøê×1
+L	java:S106,"+Replace this use of System.out by a logger.(ôú±Éùÿÿÿÿ8ÇÏøê×1
+Q
+java:S2864-"4Iterate over the "entrySet" instead of the "keySet".(Şü×Â8ÇÏøê×1
+G	java:S106."+Replace this use of System.out by a logger.(®ş¥ß8ËÏøê×1
+F	java:S1063"+Replace this use of System.out by a logger.(Ÿ¼°h8ĞÏøê×1
+Q
+java:S28644"4Iterate over the "entrySet" instead of the "keySet".(óÇ°8ÑÏøê×1
+L	java:S1065"+Replace this use of System.out by a logger.(ÅÄºšüÿÿÿÿ8ÒÏøê×1

@@ -1,0 +1,11 @@
+
+G	java:S106,"+Replace this use of System.out by a logger.(Úÿë8¸ğÌ×1
+L	java:S1061"+Replace this use of System.out by a logger.(‡“Úºøÿÿÿÿ8¢¸ğÌ×1
+L	java:S1066"+Replace this use of System.out by a logger.(‘şª·ıÿÿÿÿ8¦¸ğÌ×1
+F	java:S106:"+Replace this use of System.out by a logger.(†å—$8©¸ğÌ×1
+L	java:S106>"+Replace this use of System.out by a logger.(¶Àšóşÿÿÿÿ8«¸ğÌ×1
+G	java:S106B"+Replace this use of System.out by a logger.(¹ŠİÓ8¯¸ğÌ×1
+L	java:S106F"+Replace this use of System.out by a logger.(Ì©Ùæşÿÿÿÿ8²¸ğÌ×1
+G	java:S106L"+Replace this use of System.out by a logger.(øü÷8·¸ğÌ×1
+G	java:S106N"+Replace this use of System.out by a logger.(«‘¡Ø8¹¸ğÌ×1
+G	java:S106T"+Replace this use of System.out by a logger.(Ê’Ë¨8»¸ğÌ×1

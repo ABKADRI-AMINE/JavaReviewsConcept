@@ -1,0 +1,15 @@
+
+J
+java:S5411-"(Use a primitive boolean expression here.(Î“ØŒþÿÿÿÿ8ðÕ÷î×1
+L	java:S106"+Replace this use of System.out by a logger.(ñÄËêüÿÿÿÿ8­Ö÷î×1
+G	java:S106"+Replace this use of System.out by a logger.(÷ë×Ù8±Ö÷î×1
+L	java:S106"+Replace this use of System.out by a logger.(µÝßÇýÿÿÿÿ8´Ö÷î×1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8¶Ö÷î×1
+L	java:S106"+Replace this use of System.out by a logger.(»›Â†ûÿÿÿÿ8ºÖ÷î×1
+o
+java:S6204!"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8»Ö÷î×1
+F	java:S106""+Replace this use of System.out by a logger.(Ý³€z8ÎÖ÷î×1
+L	java:S106&"+Replace this use of System.out by a logger.(¢Ðð÷øÿÿÿÿ8ÔÖ÷î×1
+y
+java:S4276*"WRefactor this code to use the more specialised Functional Interface 'Predicate<Person>'(¯²à±øÿÿÿÿ8ÞÖ÷î×1
